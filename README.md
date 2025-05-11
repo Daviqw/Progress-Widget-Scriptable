@@ -11,6 +11,8 @@ Funcionalidades principais:
 
 🎨 Cores personalizadas: Escolha a cor do gráfico usando códigos hexadecimais (#RRGGBB)
 
+ Nota: As personalizações de título e cor devem ser feitas diretamente no código.
+
 # Progress Tracker Widget for iPhone (via Scriptable) (EN)
 This widget, built for the Scriptable app, lets you track your daily progress in any activity through a clean and simple chart. Perfect for goals like reading, workouts, studying, or any habit you want to monitor.
 
@@ -23,3 +25,5 @@ Key features:
 📝 Custom title: Name the widget according to your activity ("Book", "Gym", "Study")
 
 🎨 Custom color: Set the chart color using hexadecimal codes (#RRGGBB)
+
+ Note: Title and color customizations must be made directly in the code.
